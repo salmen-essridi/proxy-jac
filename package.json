@@ -1,0 +1,22 @@
+{
+  "name": "jacadi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-perf": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-launcher": "^1.1.1",
+    "connect": "^3.7.0",
+    "connect-gzip": "^0.1.6",
+    "express": "^4.19.2",
+    "http-proxy": "^1.18.1",
+    "http-proxy-middleware": "^2.0.6",
+    "lighthouse": "^11.7.0",
+    "psi": "^4.1.0",
+    "trumpet": "^1.7.2"
+  }
+}
